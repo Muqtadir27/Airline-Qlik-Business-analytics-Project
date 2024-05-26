@@ -23,6 +23,9 @@ To have a strategic plan accordingly
 
 # Data Source
 Airline dataset 2022(Kaggle) 
+You can watch this full video (4min) by clicking the link below 
+https://drive.google.com/file/d/1zZjEh6LmhKJD6PMQntIZawaIgidP3r4k/view?usp=sharing
+
 
 
 https://github.com/Muqtadir27/Airline-Qlik-Business-analytics-Project/assets/166947600/38d00f01-e3c1-4655-9ecf-1c47d50282c2
