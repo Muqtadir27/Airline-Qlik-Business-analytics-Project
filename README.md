@@ -4,7 +4,7 @@ Welcome to the Airline Business Analytics Project! This warehouse holds a compre
 
 # Project Overview
 
-In this project we will identify the influx of people/passengers, their names, nationality, the country they are heading to, flight schedules in a month, pilot details, age of passengers traveling, and number of flights that are being (delayed, cancelled, on time). this data will help us understand the demand/trend of the people, Their needs, and their requirements. The airline industry is ever-evolving and highly competitive. This project focuses on harnessing large amounts of data to derive insights. That helps in making strategic decisions.
+In this project, we will identify the influx of people/passengers, their names, nationality, the country they are heading to, flight schedules in a month, pilot details, age of passengers traveling, and a number of flights that are being (delayed, cancelled, on time). this data will help us understand the demand/trend of the people, Their needs, and their requirements. The airline industry is ever-evolving and highly competitive. This project focuses on harnessing large amounts of data to derive insights. That helps in making strategic decisions.
 
 
 # Objectives
@@ -23,3 +23,8 @@ To have a strategic plan accordingly
 
 # Data Source
 Airline dataset 2022(Kaggle) 
+
+
+https://github.com/Muqtadir27/Airline-Qlik-Business-analytics-Project/assets/166947600/38d00f01-e3c1-4655-9ecf-1c47d50282c2
+
+
