@@ -28,6 +28,6 @@ You can watch this full video (4min) by clicking the link below to have a detail
 
 
 
-https://github.com/Muqtadir27/Airline-Qlik-Business-analytics-Project/assets/166947600/38d00f01-e3c1-4655-9ecf-1c47d50282c2
+[https://github.com/Muqtadir27/Airline-Qlik-Business-analytics-Project/assets/166947600/38d00f01-e3c1-4655-9ecf-1c47d50282c2](https://github.com/user-attachments/assets/096f5bab-d3d7-4fe5-be84-438b368abef2)
 
 
