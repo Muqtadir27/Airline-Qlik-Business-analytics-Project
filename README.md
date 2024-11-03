@@ -37,8 +37,8 @@ Revenue Segmentation: Analysis by month, route, and customer profile to identify
 Seasonal Trends: Highlights travel trends across seasons for strategic marketing.    
 
 # Tools and Technologies
-Qlik: For developing interactive dashboards and visualizations.
-SQL/Python: For data preprocessing, cleansing, and transformation.
+Qlik: For developing interactive dashboards and visualizations.     
+SQL/Python: For data preprocessing, cleansing, and transformation.    
 
 
 
