@@ -1,4 +1,4 @@
-# Airline-Qlik-Business-analytics-Project ✈️📊
+# **Airline-Qlik-Business-analytics-Project ✈️📊**
 A comprehensive Qlik-based dashboard solution that delivers powerful business insights for the **Airline Industry**. This project uncovers trends in passenger behavior, flight performance, and revenue generation to help stakeholders make data-driven decisions for operational efficiency and customer satisfaction.
 
 ## **Table of Contents**
