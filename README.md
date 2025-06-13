@@ -101,7 +101,7 @@ git commit -m "Add new feature"
 This project is open-source and licensed under the MIT License.
 
 ## Author
-- Developed by Mohammed Abdul Muqtadir.
+- Developed by Mohammed Abdul Muqtadir
 - 📧 abdulmuqtadir1027@gmail.com
 
 ## Acknowledgments
